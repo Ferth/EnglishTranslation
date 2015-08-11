@@ -10,20 +10,20 @@ QUEST_20150317_000009	Please select a starting zone.
 QUEST_20150317_000010	Select Advancement
 QUEST_20150317_000011	Please select a class.
 QUEST_20150317_000012	Bokor Master
-QUEST_20150317_000013	So, you want to learn more about this stone slate. {nl}If you wish, I will show you the will of its creator.
+QUEST_20150317_000013	What brings you here? You want to learn more about this stone slate? {nl}If you wish, I will show you the will of She that made it.
 QUEST_20150317_000014	Goddess Laima
-QUEST_20150317_000015	Much time will have drifted between us when you see this message. {nl}I am the Goddess of Fate and Wisdom - Laima.
-QUEST_20150317_000016	600 years ago - at the time I am sending this revelation - I saw a great deal of death and grief. {nl}Your seeing of this message likely means that all that I foresaw has come to pass.
-QUEST_20150317_000017	The Demons have started the first cataclysms, and the goddesses have vanished. {nl}I knew all of this in advance and spent great effort to interfere with fate, but my power alone was not enough.
-QUEST_20150317_000018	I have wandered through many far-seeing dreams to find an answer. {nl}You were at the end of them…a Savior.
-QUEST_20150317_000019	However, I knew the Demons would never rest while I kept my power. {nl}I was forced to hide away, until the time of your appearance.
-QUEST_20150317_000020	I resolved to divide my being and subsist inside many of these messages. {nl}I continued to secretly create them, even as the kingdoms flew by over the millennia. 
-QUEST_20150317_000021	Savior. These messages are hidden across axes of time. {nl}Once they are brought together, I will regain my complete form and help against the Demons.
-QUEST_20150317_000022	There may be a weight on your shoulders for this divine task, but it will pass. {nl}Perhaps, in the muddy midst of your trials and tribulations, something will turn around.
-QUEST_20150317_000023	Nevertheless, only you and I can save this world.
-QUEST_20150317_000024	The first Paladin will hold the next one. {nl}I expect you at the highest flower garden.
-QUEST_20150317_000025	The dark aura is indeed unpleasant… {nl}Yet, if this message is truly from the Goddess Laima, then I am simply amazed.
-QUEST_20150317_000026	Well, you should hurry and go find Sir Uska. {nl}I'm sure he can tell you where to go next. {nl}May the Goddess bless your fate…
+QUEST_20150317_000015	Many years will have passed before you see this message. {nl}I am the Goddess of Fate and Wisdom - Laima.
+QUEST_20150317_000016	600 years ago - at the time I am sending this revelation - I foresaw the world torn by death and strife. {nl}That you are seeing this message likely means that all that I foresaw has come to pass.
+QUEST_20150317_000017	The Demon's Cataclysm has begun, the Goddesses have vanished. {nl}I forsaw all of this and spent great effort striving against Fate, but my power alone was not enough.
+QUEST_20150317_000018	I have wandered through many visions of the future to find an answer. {nl}At the end of all of them was you… My Revelator
+QUEST_20150317_000019	However, I knew the Demons would never cease while I remained. {nl}I had no choice but to hide away until the time of your appearance.
+QUEST_20150317_000020	I resolved to divide my being and subsist inside many of these stones. {nl}I created them in secret and spread them throughout the kingdom, to survive the passing of the centuries. 
+QUEST_20150317_000021	Revelator, seek out and collect these messages. {nl}Once they are brought together, I will regain my form and use my power to aid you against the Demons.
+QUEST_20150317_000022	This is no simple task, but you must persevere! {nl}Know that in the darkest hours and fiercest trials the hope of this world rests with you.
+QUEST_20150317_000023	Only you can restore my power.
+QUEST_20150317_000024	Seek out the First Paladin, he holds the next clue. {nl}He is waiting for you at the garden in the sky.
+QUEST_20150317_000025	Whew, that was unexpected… {nl}Yet, if this message is truly from the Goddess Laima, what choice do you have?
+QUEST_20150317_000026	You should hurry and and report to Knight Commander Uska. {nl}I'm sure he can tell you where to go next. {nl}May the Goddess bless your fate…
 QUEST_20150317_000027	Please select the preferred Smart Gen.
 QUEST_20150317_000028	William
 QUEST_20150317_000029	The fee's 100 Silver. {nl}It'll be cheaper than cutting through monster central.
@@ -34,10 +34,10 @@ QUEST_20150317_000033	That's no good! {nl}I can't work for nothing, even for a R
 QUEST_20150317_000034	Wandering Merchant
 QUEST_20150317_000035	Like a dandelion's seeds, I am merely one who follows the wind. {nl}Since we've met in such a curious way, perhaps you'll spare a moment to view my curiosities?
 QUEST_20150317_000036	Kristina
-QUEST_20150317_000037	Welcome! {nl}You're looking for a travel companion, right? {nl}You won't find a better place for partners than here!
+QUEST_20150317_000037	Welcome! {nl}Tired of traveling alone? {nl}You won't find better companions anywhere else!
 QUEST_20150317_000038	You can make your companions watch you or train special attributes. {nl}Earn enough affection, and you can even buy some cool equipment!
 QUEST_20150317_000039	Raising your companion's affection will increase riding stamina and evasion! {nl}So, what do you think? Is that enough to make you consider one?
-QUEST_20150317_000040	The box requires a matching key.
+QUEST_20150317_000040	This chest is shut tight, you need the key that fits this lock.
 QUEST_20150317_000041	Select Quest
 QUEST_20150317_000042	Modify Quest Status
 QUEST_20150317_000043	Force start?
@@ -49,7 +49,7 @@ QUEST_20150317_000048	If that's correct, go and see Knight Commander Uska, at Kl
 QUEST_20150317_000049	It would be nice if I had a moment to relax…
 QUEST_20150317_000050	Sparnas… {nl}Not someone to take lightly…
 QUEST_20150317_000051	Soldier Moody
-QUEST_20150317_000052	Let's deal with this monster before talking.
+QUEST_20150317_000052	This isn't the time to chat! There are monsters afoot!.
 QUEST_20150317_000053	Joint Investigation Team - Scott
 QUEST_20150317_000054	I long for a time when our team is no longer needed… {nl}Ah, that'll be a peaceful age.
 QUEST_20150317_000055	I don't know where to start. {nl}Have you heard anything?
